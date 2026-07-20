@@ -76,7 +76,7 @@ MBTI_POKEMON = {
 # -------------------------------------------------
 st.set_page_config(page_title="MBTI 포켓몬 추천", page_icon="⚡", layout="centered")
 
-st.title("⚡ MBTI 포켓몬 추천기😍")
+st.title("⚡ MBTI 포켓몬 추천기")
 st.write("당신의 MBTI를 선택하면, 딱 어울리는 포켓몬을 추천해드려요!")
 
 mbti_list = list(MBTI_POKEMON.keys())
